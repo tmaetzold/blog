@@ -1,1 +1,1 @@
-Sitemap: https://tmaetzold.github.io/blog/sitemap.xml
+Sitemap: https://trentmaetzold.com/sitemap.xml
